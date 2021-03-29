@@ -2,3 +2,6 @@
 **/*geckodriver.*
 **/*UpdateNexusMod.ps1
 **/*version.txt
+__pycache__
+Cinder*
+tmp
